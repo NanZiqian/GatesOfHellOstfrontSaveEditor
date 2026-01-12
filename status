@@ -1,0 +1,12 @@
+{saveinfo
+	{version 1}
+	{gameVersion "1.060.0"}
+	{timestamp 1766457361}
+	{type default}
+	{manager
+		{origin "single/03-fin_skirmish/1941_07-fin_petrozavodsk:0"}
+		{difficulty heroic}
+		{mission_options \"doctrine_offensive\"}
+		{fog_of_war fog_off}
+	}
+}

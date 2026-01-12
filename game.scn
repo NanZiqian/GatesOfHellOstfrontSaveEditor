@@ -1,0 +1,6701 @@
+{game
+	{Camera
+		{position 2571.44 -4890.06}
+		{altitude 234.109}
+		{distance 1800}
+		{viewAngle 0.44775}
+		{yawAngle 0.104139}
+		{fov 0.785398}
+	}
+	{Control
+		{Selection 0 502}
+		{Group 0 102}
+		{Group 1 788}
+		{Group 2 493}
+		{Group 3 651}
+		{Group 4 666}
+		{Group 5 1057}
+	}
+	{Squads
+		{Squad
+			{Id 38}
+			{Actors 106 178}
+			{Commander 178}
+		}
+		{Squad
+			{Id 61}
+			{Actors 1001 8 3}
+			{Commander 1001}
+		}
+		{Squad
+			{Id 92}
+			{Actors 231 230}
+			{Commander 231}
+		}
+		{Squad
+			{Id 93}
+			{Actors 1007}
+			{Commander 1007}
+		}
+		{Squad
+			{Id 94}
+			{Actors 980}
+			{Commander 980}
+		}
+		{Squad
+			{Id 95}
+			{Actors 987}
+			{Commander 987}
+		}
+		{Squad
+			{Id 99}
+			{Actors 978}
+			{Commander 978}
+		}
+		{Squad
+			{Id 105}
+			{Actors 979}
+			{Commander 979}
+		}
+		{Squad
+			{Id 109}
+			{Actors 1026 1027}
+			{Commander 1026}
+		}
+		{Squad
+			{Id 113}
+			{Actors 1006}
+			{Commander 1006}
+		}
+		{Squad
+			{Id 115}
+			{Actors 1009}
+			{Commander 1009}
+		}
+		{Squad
+			{Id 116}
+			{Actors 1008}
+			{Commander 1008}
+		}
+		{Squad
+			{Id 120}
+			{Actors 1025}
+			{Commander 1025}
+		}
+		{Squad
+			{Id 121}
+			{Actors 1029}
+			{Commander 1029}
+		}
+		{Squad
+			{Id 134}
+			{Actors 775}
+			{Commander 775}
+		}
+		{Squad
+			{Id 143}
+			{Actors 10}
+			{Commander 10}
+		}
+		{Squad
+			{Id 167}
+			{Actors 110}
+			{Commander 110}
+		}
+		{Squad
+			{Id 175}
+			{Actors 209}
+			{Commander 209}
+		}
+		{Squad
+			{Id 193}
+			{Actors 21}
+			{Commander 21}
+		}
+		{Squad
+			{Id 196}
+			{Actors 39}
+			{Commander 39}
+		}
+		{Squad
+			{Id 197}
+			{Actors 1021}
+			{Commander 1021}
+		}
+		{Squad
+			{Id 198}
+			{Actors 1022}
+			{Commander 1022}
+		}
+		{Squad
+			{Id 199}
+			{Actors 435}
+			{Commander 435}
+		}
+		{Squad
+			{Id 200}
+			{Actors 501}
+			{Commander 501}
+		}
+		{Squad
+			{Id 206}
+			{Actors 1}
+			{Commander 1}
+		}
+		{Squad
+			{Id 208}
+			{Actors 195 200}
+			{Commander 200}
+		}
+		{Squad
+			{Id 209}
+			{Actors 196}
+			{Commander 196}
+		}
+		{Squad
+			{Id 210}
+			{Actors 189}
+			{Commander 189}
+		}
+		{Squad
+			{Id 211}
+			{Actors 199}
+			{Commander 199}
+		}
+		{Squad
+			{Id 222}
+			{Actors 532}
+			{Commander 532}
+		}
+		{Squad
+			{Id 223}
+			{Actors 54 101}
+			{Commander 54}
+		}
+		{Squad
+			{Id 225}
+			{Actors 1028}
+			{Commander 1028}
+		}
+		{Squad
+			{Id 226}
+			{Actors 1017}
+			{Commander 1017}
+		}
+		{Squad
+			{Id 235}
+			{Actors 1020}
+			{Commander 1020}
+		}
+		{Squad
+			{Id 237}
+			{Actors 1030}
+			{Commander 1030}
+		}
+		{Squad
+			{Id 245}
+			{Actors 86}
+			{Commander 86}
+		}
+		{Squad
+			{Id 253}
+			{Actors 1011 1012 1013 1014}
+			{Commander 1011}
+		}
+		{Squad
+			{Id 254}
+			{Actors 192}
+			{Commander 192}
+		}
+		{Squad
+			{Id 257}
+			{Actors 489}
+			{Commander 489}
+		}
+		{Squad
+			{Id 259}
+			{Actors 5}
+			{Commander 5}
+		}
+		{Squad
+			{Id 261}
+			{Actors 989}
+			{Commander 989}
+		}
+		{Squad
+			{Id 262}
+			{Actors 17}
+			{Commander 17}
+		}
+		{Squad
+			{Id 263}
+			{Actors 169 173 111}
+			{Commander 169}
+		}
+		{Squad
+			{Id 277}
+			{Actors 769 771 772 773 807 809 813 817 819 820 821 822}
+			{Move}
+			{MovePosition -201.54 -1404.57}
+			{Commander 769}
+			{Waypoint {First "171"}
+				{From "201"}
+				{To "369"}
+				{Next "132"}
+			}
+		}
+		{Squad
+			{Id 278}
+			{Actors 824 825 841 847 867 868 869 870 871 872 873 874}
+			{Move}
+			{MovePosition 3920.22 -1406.51}
+			{Commander 824}
+			{Waypoint {First "166"}
+				{From "178"}
+				{To "210"}
+				{Next "211"}
+			}
+		}
+		{Squad
+			{Id 279}
+			{Actors 875 876 879 880 881 886 891 892 893 894 896 897}
+			{Move}
+			{MovePosition 3154.65 -5725.15}
+			{Commander 875}
+			{Waypoint {First "171"}
+				{From "206"}
+				{To "204"}
+				{Next "206"}
+			}
+		}
+		{Squad
+			{Id 281}
+			{Actors 952}
+			{Move}
+			{MovePosition 1108.18 -5299.77}
+			{Commander 952}
+			{Waypoint {First "108"}
+				{From "766"}
+				{To "767"}
+				{Next "768"}
+			}
+		}
+		{Squad
+			{Id 284}
+			{Actors 976}
+			{Move}
+			{MovePosition 1503.88 -3757.18}
+			{Commander 976}
+			{Waypoint {First "183"}
+				{From "559"}
+				{To "117"}
+			}
+		}
+		{Squad
+			{Id 288}
+			{Actors 1064 1065 1066 1067 1068 1069 1070 1071 1072 1073 1074 1075}
+			{Move}
+			{MovePosition 1480.07 -4482.71}
+			{Commander 1064}
+			{Waypoint {First "166"}
+				{From "149"}
+				{To "178"}
+				{Next "210"}
+			}
+		}
+		{Squad
+			{Id 289}
+			{Actors 638 640 648}
+			{Commander 640}
+		}
+		{Squad
+			{Id 292}
+			{Actors 1076}
+			{Move}
+			{MovePosition 1343.53 -4811.19}
+			{Commander 1076}
+			{Waypoint {First "183"}
+				{From "119"}
+				{To "122"}
+			}
+		}
+		{Squad
+			{Id 294}
+			{Actors 1087 1088 1089 1090 1091 1092 1093 1094 1095 1096 1097 1098}
+			{Move}
+			{MovePosition 1480.07 -4482.71}
+			{Commander 1087}
+			{Waypoint {First "166"}
+				{From "149"}
+				{To "178"}
+				{Next "210"}
+			}
+		}
+		{Squad
+			{Id 299}
+			{Actors 1033 1037}
+			{Commander 1033}
+		}
+		{Squad
+			{Id 301}
+			{Actors 502}
+			{Commander 502}
+		}
+	}
+	{ObjectiveProgress 4 "mission/single/03-fin_skirmish/1941_07-fin_petrozavodsk/flag_capture_status"}
+	{CurrentObjective 1}
+	{Threads
+		{trigger "x:music/setup"
+			{current "/4/"}
+			{state "/4/"
+				{delay 4.989}
+			}
+		}
+		{trigger "enemy:ai/possible_move"
+			{current "/2/"}
+			{state "/2/"
+				{delay 17.48}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_tank2"
+			{current "/4/"}
+			{state "/4/"
+				{delay 243.123}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_tank3"
+			{current "/4/"}
+			{state "/4/"
+				{delay 323.123}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_tank4"
+			{current "/4/"}
+			{state "/4/"
+				{delay 363.123}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_inf1"
+			{current "/3/1/0/"}
+			{state "/3/1/0/"
+				{delay 91.22}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_inf2"
+			{current "/3/1/0/"}
+			{state "/3/1/0/"
+				{delay 171.22}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_inf3"
+			{current "/3/2/0/"}
+			{state "/3/2/0/"
+				{delay 241.22}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_carrier"
+			{current "/4/"}
+			{state "/4/"
+				{delay 343.123}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_tank1"
+			{current "/5/0/0/"}
+			{state "/5/0/0/"
+				{delay 143.23}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_veh"
+			{current "/3/2/0/"}
+			{state "/3/2/0/"
+				{delay 443.123}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_counter"
+			{current "/14/"}
+			{state "/14/"
+				{delay 45.476}
+			}
+		}
+		{trigger "x:music/music_hero"
+			{current "/1/0/2/"}
+			{state "/1/0/2/"
+				{delay 23.879}
+			}
+		}
+		{trigger "ai:logic/chance_ai_pursue"
+			{current "/27/"}
+			{state "/27/"
+				{delay 11.256}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_inf2"
+			{current "/3/1/0/"}
+			{state "/3/1/0/"
+				{delay 200.728}
+			}
+		}
+		{trigger "enemy:ai/reinforce/call_inf3"
+			{current "/3/2/0/"}
+			{state "/3/2/0/"
+				{delay 290.727}
+			}
+		}
+		{trigger "ai:logic/tank_alt_fight"
+			{current "/1/1/17/"}
+			{state "/1/1/17/"
+				{delay 8.074}
+			}
+		}
+		{trigger "enemy:ai/inf-act/send_vehcrew"
+			{current "/4/"}
+			{state "/4/"
+				{delay 7.137}
+			}
+		}
+		{trigger "enemy:ai/inf-act/obj_unhold_near"
+			{current "/6/"}
+			{state "/6/"
+				{delay 0.134}
+			}
+		}
+		{trigger "enemy:ai/static_veh_react_zone"
+			{current "/7/"}
+			{state "/7/"
+				{delay 51.094}
+			}
+		}
+		{trigger "ai:help/clean"
+			{current "/10/"}
+			{state "/10/"
+				{delay 19.511}
+			}
+		}
+		{trigger "mission:tasks/money:income"
+			{current "/2/"}
+			{state "/2/"
+				{delay 4.776}
+			}
+		}
+		{trigger "ai:logic/ai_unhold"
+			{current "/4/"}
+			{state "/4/"
+				{delay 0.578}
+			}
+		}
+		{trigger "ai:logic/recrew_portables"
+			{current "/1/0/3/"}
+			{state "/1/0/3/"
+				{delay 19.518}
+			}
+		}
+	}
+	{Damages
+		{blastwave
+			{energy 2.57}
+			{area 1.8075 3.615}
+			{no_ground_interaction}
+		}
+		{data
+			{Position 2965.18 -5444.59 256.143}
+			{Hits 0xab85}
+		}
+		{blastwave
+			{energy 1.4075}
+			{area 3.8375 8.125}
+			{no_ground_interaction}
+		}
+		{data
+			{Position 2965.18 -5444.59 256.143}
+			{Volume 5421367 "head" 0xca7d 0.497438 -0.8869 -0.461825 0.0112532 2847.93 -5505.64 257.631}
+			{Volume 5421357 "hand2l" 0xca7d 0.545768 -0.941198 -0.337854 -0.000675057 2843.53 -5488.26 256.056}
+			{Volume 5421341 "body" 0xca7d 0.624111 -0.895446 -0.445047 0.0104776 2853.71 -5499.99 257.448}
+			{Volume 5421315 "hand2r" 0xca7d 0.752035 -0.874172 -0.485538 0.00869913 2863.18 -5501.25 257.158}
+			{Volume 5421284 "body" 0xca7e 0.908823 -0.881026 -0.473069 0 2870.79 -5495.27 256.143}
+			{Volume 5421275 "turret2" 0xab85 0.953478 -0.905374 0.149572 0.3974 2870.65 -5428.98 297.636}
+			{Volume 5421267 "foot2l" 0xca7d 0.990459 -0.92795 -0.371956 0.0236004 2870.38 -5482.59 258.554}
+			{Volume 5421265 "foot2r" 0xca7d 0.999832 -0.903453 -0.428028 0.0237605 2873.4 -5488.07 258.557}
+			{Volume 5421221 "trackleft4" 0xab85 1.21574 -0.608119 0.786265 0.109447 2911.4 -5375.06 265.822}
+			{Volume 5421216 "trackleft2" 0xab85 1.24081 -0.628237 0.777958 0.00992836 2910.58 -5376.98 257.006}
+			{Volume 5421213 "trackleft" 0xab85 1.25552 -0.638115 0.767532 0.0608634 2910.29 -5378.58 261.378}
+			{Volume 5421207 "trackleft18" 0xab85 1.28587 -0.467789 0.874479 0.128298 2925.81 -5371 266.941}
+			{Volume 5421184 "engine2" 0xab85 1.3971 -0.869879 0.27327 0.410651 2897.86 -5423.45 287.921}
+			{Volume 5421173 "body" 0x305 1.4075 0.980535 0.196346 0 3037.62 -5430.09 256.143}
+			{Hits 0xab85}
+		}
+	}
+	{ParticleManager
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1947.95 4058.3 181.979}
+			{Angle 1.8901}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1416.18 6010.14 137.978}
+			{Angle 1.5373}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1919.31 3994.11 180}
+			{Angle 1.86599}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1465.65 5957.04 132}
+			{Angle 1.50502}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1944.96 4068.25 180}
+			{Angle 1.88813}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1346.46 -4423.69 208}
+			{Angle -1.77549}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1649.98 -5835.07 237.902}
+			{Angle -1.52301}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1613.05 -6278.5 247.515}
+			{Angle 0.272553}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1415.51 6020.51 138.006}
+			{Angle 1.53885}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1916.27 4004.06 180}
+			{Angle 1.86599}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1396.74 -4435.65 210}
+			{Angle -1.77665}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1464.94 5967.42 131.968}
+			{Angle 1.5051}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1604.66 -5898.74 230.545}
+			{Angle -1.63697}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1941.92 4078.2 180}
+			{Angle 1.88827}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1414.83 6030.89 138.94}
+			{Angle 1.5396}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1913.23 4014 180}
+			{Angle 1.86594}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1464.23 5977.8 132.059}
+			{Angle 1.50518}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1650.1 -5845.46 238.926}
+			{Angle -1.63347}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1938.94 4088.14 180}
+			{Angle 1.88508}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1414.15 6041.26 139.012}
+			{Angle 1.54032}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1600.79 -6239.63 245.001}
+			{Angle 0.272683}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1910.19 4023.95 180}
+			{Angle 1.86589}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1463.53 5988.17 133}
+			{Angle 1.50544}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1596.57 -5905.03 228.518}
+			{Angle -1.77341}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1935.95 4098.09 180}
+			{Angle 1.88248}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1413.42 6051.63 139.222}
+			{Angle 1.53904}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1344.65 -4432.91 208.946}
+			{Angle -1.77636}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1907.15 4033.89 180}
+			{Angle 1.86589}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1649 -5855.79 238.705}
+			{Angle -1.73829}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1609.2 -6279.54 247.002}
+			{Angle 0.272935}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1462.83 5998.54 133.208}
+			{Angle 1.5053}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1932.92 4108.04 180}
+			{Angle 1.88248}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1596.96 -6240.68 244.298}
+			{Angle 0.273276}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1394.92 -4444.87 210}
+			{Angle -1.7754}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1412.74 6062 139.358}
+			{Angle 1.53988}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1605.35 -6280.59 246.976}
+			{Angle 0.273137}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1904.11 4043.84 180}
+			{Angle 1.86594}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1462.12 6008.91 133}
+			{Angle 1.50558}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1593.11 -6241.73 244}
+			{Angle 0.272938}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1929.91 4117.99 180}
+			{Angle 1.88066}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1587.65 -5909.97 226.435}
+			{Angle -1.90191}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1601.53 -6281.64 246.211}
+			{Angle 0.272699}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1412.06 6072.37 140}
+			{Angle 1.54075}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1646.73 -5865.94 238.251}
+			{Angle -1.84294}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1589.27 -6242.77 243.76}
+			{Angle 0.272739}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1901.07 4053.78 180}
+			{Angle 1.86612}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1461.41 6019.29 133}
+			{Angle 1.50583}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1926.91 4127.94 180}
+			{Angle 1.87779}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1597.68 -6282.68 246}
+			{Angle 0.272932}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1585.44 -6243.82 242.999}
+			{Angle 0.273005}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1411.39 6082.74 140.628}
+			{Angle 1.54202}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1898.03 4063.73 180}
+			{Angle 1.86619}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1593.84 -6283.73 245.673}
+			{Angle 0.272896}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1460.7 6029.66 133}
+			{Angle 1.50584}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1581.58 -6244.86 243}
+			{Angle 0.27271}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1923.88 4137.88 180}
+			{Angle 1.87726}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1643.33 -5875.77 237.572}
+			{Angle -1.95177}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1590.03 -6284.78 245}
+			{Angle 0.272402}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1410.72 6093.11 140.762}
+			{Angle 1.54318}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1578.19 -5913.65 223.087}
+			{Angle -2.03503}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1895 4073.68 180}
+			{Angle 1.86619}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1577.75 -6245.9 242.455}
+			{Angle 0.272103}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1460 6040.04 133}
+			{Angle 1.50605}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1342.83 -4442.13 209}
+			{Angle -1.77489}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1920.86 4147.84 180}
+			{Angle 1.87622}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1586.21 -6285.82 245}
+			{Angle 0.272504}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1410.03 6103.48 140.96}
+			{Angle 1.54341}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1573.94 -6246.94 241.841}
+			{Angle 0.273254}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1891.96 4083.62 180}
+			{Angle 1.86645}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1459.3 6050.41 134}
+			{Angle 1.50632}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1917.85 4157.79 180}
+			{Angle 1.87341}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1582.35 -6286.85 244.375}
+			{Angle 0.273856}
+		}
+		{Entity "tracks_big"
+			{Owner 976}
+			{Position 1393.1 -4454.1 210}
+			{Angle -1.776}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1570.1 -6247.99 241.642}
+			{Angle 0.273671}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1638.91 -5885.15 236.812}
+			{Angle -2.05849}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1409.31 6113.86 141.043}
+			{Angle 1.54281}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1888.92 4093.57 180}
+			{Angle 1.8666}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1578.54 -6287.9 243.614}
+			{Angle 0.273201}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1458.59 6060.78 134.187}
+			{Angle 1.50617}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1568.47 -5915.93 219.769}
+			{Angle -2.15846}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1914.83 4167.74 180}
+			{Angle 1.87215}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1566.27 -6249.03 241.143}
+			{Angle 0.273352}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1408.66 6124.22 141.794}
+			{Angle 1.54507}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1574.7 -6288.94 243}
+			{Angle 0.273775}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1885.89 4103.52 180}
+			{Angle 1.8666}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1457.88 6071.15 134.33}
+			{Angle 1.50638}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1562.44 -6250.07 240.394}
+			{Angle 0.27407}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1911.8 4177.69 180}
+			{Angle 1.87197}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1570.87 -6289.98 243.007}
+			{Angle 0.273744}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1633.42 -5893.94 236.59}
+			{Angle -2.1671}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1408 6134.6 142.252}
+			{Angle 1.5464}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1882.85 4113.47 180}
+			{Angle 1.86674}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1558.59 -6251.12 240}
+			{Angle 0.273325}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1457.17 6081.52 134.471}
+			{Angle 1.50671}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1908.8 4187.65 180}
+			{Angle 1.86852}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1567.06 -6291.04 242.318}
+			{Angle 0.272835}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1558.5 -5916.72 216.212}
+			{Angle -2.28829}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1554.75 -6252.15 239.856}
+			{Angle 0.272688}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1407.28 6144.97 142.449}
+			{Angle 1.54589}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1879.82 4123.41 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1456.47 6091.9 134.723}
+			{Angle 1.5067}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1563.25 -6292.07 242}
+			{Angle 0.27264}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3171.81 -2478.75 282.267}
+			{Angle 1.01144}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3101.36 -2499.73 267.184}
+			{Angle 0.944883}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1905.78 4197.6 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1550.95 -6253.2 239.095}
+			{Angle 0.273379}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1406.61 6155.34 142.583}
+			{Angle 1.54697}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1627.06 -5902 235.813}
+			{Angle -2.2704}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1876.78 4133.36 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1559.39 -6293.1 241.783}
+			{Angle 0.27472}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1455.75 6102.27 135}
+			{Angle 1.50681}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1902.75 4207.55 180}
+			{Angle 1.86697}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1547.14 -6254.24 238.962}
+			{Angle 0.27524}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1405.93 6165.71 142.719}
+			{Angle 1.54822}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1555.56 -6294.15 241.017}
+			{Angle 0.27484}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1873.75 4143.31 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1455.06 6112.64 135.94}
+			{Angle 1.50701}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1543.3 -6255.28 238.566}
+			{Angle 0.274541}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1899.71 4217.49 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1548.69 -5916.14 212.286}
+			{Angle -2.41306}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3178.15 -2470.53 283}
+			{Angle 1.00737}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3107.53 -2491.43 268.569}
+			{Angle 0.943647}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1551.74 -6295.18 240.254}
+			{Angle 0.27514}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1405.17 6176.08 143}
+			{Angle 1.54581}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1870.72 4153.26 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1539.51 -6256.32 237.807}
+			{Angle 0.275686}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1454.36 6123.01 136.034}
+			{Angle 1.50656}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1619.81 -5909.31 234.861}
+			{Angle -2.37778}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1896.68 4227.44 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1547.9 -6296.22 240}
+			{Angle 0.276388}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1404.47 6186.45 143.011}
+			{Angle 1.54602}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1535.68 -6257.36 237.041}
+			{Angle 0.275995}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1867.68 4163.2 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1453.66 6133.38 136.174}
+			{Angle 1.50657}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1893.65 4237.39 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1544.1 -6297.27 239.726}
+			{Angle 0.275287}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3184.43 -2462.27 283}
+			{Angle 1.00503}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3113.73 -2483.13 269.65}
+			{Angle 0.943255}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1531.84 -6258.4 236.273}
+			{Angle 0.275254}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1403.82 6196.82 143.374}
+			{Angle 1.54777}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1864.65 4173.15 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1452.94 6143.76 136.318}
+			{Angle 1.50689}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1540.28 -6298.3 238.962}
+			{Angle 0.275758}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1890.61 4247.34 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1539.28 -5914.26 207.521}
+			{Angle -2.5359}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1528.07 -6259.43 235.519}
+			{Angle 0.276359}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1611.83 -5915.73 233.271}
+			{Angle -2.48499}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1403.07 6207.2 144}
+			{Angle 1.54619}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1861.61 4183.1 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1536.44 -6299.33 238.194}
+			{Angle 0.277441}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1452.24 6154.13 136.457}
+			{Angle 1.50642}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1887.58 4257.29 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3190.64 -2453.99 283.108}
+			{Angle 1.00503}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3119.93 -2474.84 270.949}
+			{Angle 0.943542}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1524.28 -6260.48 235.145}
+			{Angle 0.278136}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1402.36 6217.57 144}
+			{Angle 1.54648}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1858.58 4193.05 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1532.6 -6300.36 237.425}
+			{Angle 0.278804}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1451.54 6164.5 137}
+			{Angle 1.50622}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1884.54 4267.23 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1520.46 -6261.52 234.998}
+			{Angle 0.278743}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1401.65 6227.95 144}
+			{Angle 1.54628}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1528.82 -6301.4 236.793}
+			{Angle 0.278712}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1855.55 4203 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1450.84 6174.88 137.65}
+			{Angle 1.50629}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1516.67 -6262.55 234.239}
+			{Angle 0.279098}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1881.51 4277.18 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1603.24 -5921.2 231.107}
+			{Angle -2.59146}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1530.1 -5911.15 203.849}
+			{Angle -2.65774}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3196.99 -2445.77 283.925}
+			{Angle 1.00085}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3126.12 -2466.54 272.18}
+			{Angle 0.94219}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1525 -6302.43 236.486}
+			{Angle 0.279727}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1400.9 6238.32 144}
+			{Angle 1.54463}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1852.51 4212.94 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1450.15 6185.25 137.875}
+			{Angle 1.50582}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1512.86 -6263.59 233.478}
+			{Angle 0.280111}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1878.48 4287.13 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1521.19 -6303.47 235.932}
+			{Angle 0.279832}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1400.19 6248.69 144}
+			{Angle 1.54419}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1849.48 4222.89 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1509.03 -6264.62 232.712}
+			{Angle 0.279572}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1449.45 6195.62 138}
+			{Angle 1.50568}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1875.44 4297.08 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1517.4 -6304.5 235.384}
+			{Angle 0.279957}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1399.47 6259.07 144.011}
+			{Angle 1.54412}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1505.27 -6265.65 231.959}
+			{Angle 0.28075}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1846.45 4232.84 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1448.75 6205.99 138.156}
+			{Angle 1.50561}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1872.41 4307.02 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1594.19 -5925.68 228.487}
+			{Angle -2.70256}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3203.42 -2437.59 284}
+			{Angle 0.993597}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3132.27 -2458.24 273.36}
+			{Angle 0.940105}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1513.6 -6305.52 234.626}
+			{Angle 0.28211}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1398.75 6269.44 144.156}
+			{Angle 1.54296}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1501.53 -6266.68 231.212}
+			{Angle 0.283268}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1843.41 4242.79 180}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1521.55 -5906.75 199.877}
+			{Angle -2.78332}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1448.05 6216.37 138.295}
+			{Angle 1.50543}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1869.38 4316.97 180}
+			{Angle 1.86676}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1509.78 -6306.53 233.917}
+			{Angle 0.284575}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1398.05 6279.81 144.295}
+			{Angle 1.54331}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1497.77 -6267.71 230.264}
+			{Angle 0.285571}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1840.38 4252.73 180}
+			{Angle 1.86679}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1447.34 6226.74 138.437}
+			{Angle 1.50556}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1866.36 4326.92 180}
+			{Angle 1.8654}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1505.99 -6307.55 233.646}
+			{Angle 0.28648}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1397.33 6290.19 145}
+			{Angle 1.54255}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1494.03 -6268.73 229.31}
+			{Angle 0.286931}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1837.35 4262.68 180}
+			{Angle 1.86679}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1446.65 6237.11 138.715}
+			{Angle 1.50533}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1584.81 -5929.13 225.868}
+			{Angle -2.81268}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1863.32 4336.87 180}
+			{Angle 1.8654}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1502.21 -6308.57 233.156}
+			{Angle 0.287802}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1396.59 6300.56 145}
+			{Angle 1.54092}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1490.28 -6269.76 228.008}
+			{Angle 0.288269}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1834.31 4272.63 180}
+			{Angle 1.86679}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3209.69 -2429.31 284}
+			{Angle 0.992078}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3138.49 -2449.93 274.603}
+			{Angle 0.93972}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1445.96 6247.48 139}
+			{Angle 1.50504}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1860.29 4346.82 180}
+			{Angle 1.8654}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1513.74 -5901.13 196.626}
+			{Angle -2.90366}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1498.43 -6309.59 232.592}
+			{Angle 0.289026}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1395.9 6310.93 145.067}
+			{Angle 1.54129}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1486.51 -6270.78 227.459}
+			{Angle 0.289484}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1445.25 6257.86 139}
+			{Angle 1.50544}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1831.28 4282.58 180}
+			{Angle 1.86677}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1857.27 4356.77 180}
+			{Angle 1.86402}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1494.65 -6310.62 231.707}
+			{Angle 0.290408}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1395.21 6321.3 145.863}
+			{Angle 1.54186}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1482.75 -6271.81 226.665}
+			{Angle 0.291049}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1828.25 4292.52 180}
+			{Angle 1.86676}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1444.55 6268.23 139.55}
+			{Angle 1.5055}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1575.13 -5931.51 222.932}
+			{Angle -2.92616}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1854.24 4366.72 180}
+			{Angle 1.86398}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1394.46 6331.68 146}
+			{Angle 1.53981}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1490.87 -6311.62 230.544}
+			{Angle 0.293546}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1443.87 6278.59 140}
+			{Angle 1.50528}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1825.21 4302.47 180}
+			{Angle 1.86676}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1479.08 -6272.82 225.722}
+			{Angle 0.29468}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1851.21 4376.67 180}
+			{Angle 1.86394}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1393.76 6342.05 146.049}
+			{Angle 1.53912}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1487.11 -6312.62 229.945}
+			{Angle 0.29657}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1443.16 6288.97 140}
+			{Angle 1.50558}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1506.69 -5894.32 193.448}
+			{Angle -3.02806}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1475.37 -6273.84 224.98}
+			{Angle 0.29721}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1822.18 4312.42 180.792}
+			{Angle 1.86674}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1848.2 4386.62 180}
+			{Angle 1.86195}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1393.1 6352.42 146.286}
+			{Angle 1.5408}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1442.45 6299.34 140.321}
+			{Angle 1.50577}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1483.35 -6313.63 228.972}
+			{Angle 0.298757}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1565.35 -5932.81 219.951}
+			{Angle -3.03969}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1819.15 4322.36 181}
+			{Angle 1.86668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1471.67 -6274.85 224.189}
+			{Angle 0.299665}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1392.38 6362.79 146.695}
+			{Angle 1.53987}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1845.17 4396.57 180}
+			{Angle 1.86109}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1441.77 6309.71 140.552}
+			{Angle 1.50564}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1479.62 -6314.62 227.675}
+			{Angle 0.302623}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1816.11 4332.31 180.953}
+			{Angle 1.86668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1468.03 -6275.86 222.887}
+			{Angle 0.303635}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1391.64 6373.16 147.309}
+			{Angle 1.53772}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1842.14 4406.52 180}
+			{Angle 1.86113}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1441.06 6320.08 140.693}
+			{Angle 1.50603}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1475.87 -6315.61 226.373}
+			{Angle 0.306165}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1813.08 4342.26 181}
+			{Angle 1.86666}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1390.99 6383.52 147.708}
+			{Angle 1.53972}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1464.36 -6276.87 221.553}
+			{Angle 0.307132}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1500.66 -5886.59 190.075}
+			{Angle 3.12829}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1440.36 6330.45 141}
+			{Angle 1.50625}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1839.12 4416.47 180}
+			{Angle 1.85977}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1555.51 -5933.06 216.016}
+			{Angle 3.12136}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1390.28 6393.9 148}
+			{Angle 1.53953}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1810.05 4352.2 181}
+			{Angle 1.86661}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1472.14 -6316.6 225.472}
+			{Angle 0.309495}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1439.66 6340.82 141.973}
+			{Angle 1.50611}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1460.68 -6277.87 220.084}
+			{Angle 0.310153}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1836.1 4426.42 180}
+			{Angle 1.85817}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1389.55 6404.26 148.754}
+			{Angle 1.53766}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1807.02 4362.15 181}
+			{Angle 1.86656}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1468.44 -6317.59 224.435}
+			{Angle 0.31288}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1438.97 6351.19 142}
+			{Angle 1.50646}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1833.08 4436.37 180}
+			{Angle 1.85742}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1457.05 -6278.87 218.63}
+			{Angle 0.314296}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1388.88 6414.63 149}
+			{Angle 1.53923}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1803.99 4372.1 181.297}
+			{Angle 1.86661}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1438.26 6361.56 142.254}
+			{Angle 1.50658}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1464.76 -6318.57 223.55}
+			{Angle 0.31613}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1830.05 4446.32 180}
+			{Angle 1.85738}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1453.42 -6279.87 217.221}
+			{Angle 0.316637}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1388.19 6425 149.267}
+			{Angle 1.53947}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1545.71 -5932.2 212.095}
+			{Angle 3.00288}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1495.53 -5877.85 188.676}
+			{Angle 2.99515}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1437.55 6371.93 142.572}
+			{Angle 1.50676}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1800.96 4382.04 181.969}
+			{Angle 1.86656}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1461.07 -6319.56 222.245}
+			{Angle 0.319141}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1827.04 4456.28 180}
+			{Angle 1.85418}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1449.79 -6280.86 215.725}
+			{Angle 0.319773}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1387.46 6435.36 150}
+			{Angle 1.53746}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1436.86 6382.29 143}
+			{Angle 1.50685}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1797.93 4391.99 182}
+			{Angle 1.86649}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1824.02 4466.23 180}
+			{Angle 1.85325}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1457.42 -6320.54 221.469}
+			{Angle 0.321896}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1386.79 6445.72 150.547}
+			{Angle 1.53899}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1446.17 -6281.85 214.279}
+			{Angle 0.32257}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1436.15 6392.66 143.675}
+			{Angle 1.50705}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1794.9 4401.93 182}
+			{Angle 1.86651}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1820.98 4476.17 180}
+			{Angle 1.85347}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1386.08 6456.09 150.728}
+			{Angle 1.53838}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1453.74 -6321.5 220.309}
+			{Angle 0.326161}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1435.45 6403.03 143.909}
+			{Angle 1.50714}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1442.62 -6282.84 212.857}
+			{Angle 0.327331}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1536.11 -5930.31 208.256}
+			{Angle 2.87973}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1791.87 4411.88 182}
+			{Angle 1.86642}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1385.35 6466.46 151}
+			{Angle 1.53731}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1817.98 4486.13 180}
+			{Angle 1.85069}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1434.76 6413.39 144.557}
+			{Angle 1.50689}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1491.65 -5868.58 186.236}
+			{Angle 2.8609}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1450.07 -6322.47 218.837}
+			{Angle 0.330781}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1439 -6283.83 211.369}
+			{Angle 0.331021}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1788.84 4421.82 182.326}
+			{Angle 1.86626}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1384.67 6476.81 151.972}
+			{Angle 1.53769}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1814.96 4496.08 180}
+			{Angle 1.84912}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1434.06 6423.76 145}
+			{Angle 1.50717}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1446.43 -6323.46 217.382}
+			{Angle 0.333107}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1785.81 4431.77 182}
+			{Angle 1.86632}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1435.39 -6284.81 209.948}
+			{Angle 0.333391}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1383.95 6487.18 152}
+			{Angle 1.53725}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1811.92 4506.03 180}
+			{Angle 1.84977}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1433.36 6434.13 145.234}
+			{Angle 1.50717}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1526.63 -5927.3 204.018}
+			{Angle 2.76485}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1782.78 4441.72 182.539}
+			{Angle 1.86642}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1442.86 -6324.42 215.957}
+			{Angle 0.3354}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1383.25 6497.54 152.256}
+			{Angle 1.53669}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1431.83 -6285.78 207.816}
+			{Angle 0.335418}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1432.66 6444.49 146}
+			{Angle 1.50712}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1808.89 4515.98 180}
+			{Angle 1.84806}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1382.55 6507.9 153}
+			{Angle 1.5374}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1779.76 4451.66 183}
+			{Angle 1.86626}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1439.27 -6325.4 214.651}
+			{Angle 0.33586}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1431.96 6454.85 146.514}
+			{Angle 1.507}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1428.23 -6286.76 205.855}
+			{Angle 0.335978}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1805.89 4525.93 180}
+			{Angle 1.84509}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1488.58 -5858.79 184.622}
+			{Angle 2.72803}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1381.83 6518.27 153.302}
+			{Angle 1.53632}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1776.73 4461.61 183}
+			{Angle 1.86632}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1431.26 6465.22 146.983}
+			{Angle 1.5071}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1435.67 -6326.36 213.093}
+			{Angle 0.33843}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1802.85 4535.88 180}
+			{Angle 1.84533}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1424.69 -6287.73 204.229}
+			{Angle 0.338784}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1381.12 6528.64 153.883}
+			{Angle 1.53603}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1430.56 6475.59 147.018}
+			{Angle 1.50703}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1773.69 4471.56 183.356}
+			{Angle 1.86633}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1517.55 -5923.3 199.831}
+			{Angle 2.64427}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1799.81 4545.83 180}
+			{Angle 1.84517}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1432.08 -6327.32 210.963}
+			{Angle 0.340542}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1421.16 -6288.7 202.391}
+			{Angle 0.341103}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1380.41 6539.01 154}
+			{Angle 1.53606}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1429.86 6485.95 147.94}
+			{Angle 1.5067}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1770.67 4481.5 183.96}
+			{Angle 1.86629}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1796.8 4555.78 180}
+			{Angle 1.84259}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1379.66 6549.38 154}
+			{Angle 1.53408}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1428.41 -6328.25 209.068}
+			{Angle 0.347346}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1417.7 -6289.68 200.905}
+			{Angle 0.347963}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1429.16 6496.32 148.23}
+			{Angle 1.50665}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1767.64 4491.45 183.566}
+			{Angle 1.86636}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1793.76 4565.73 180}
+			{Angle 1.84252}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1378.97 6559.73 154.869}
+			{Angle 1.53405}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1428.46 6506.68 149.051}
+			{Angle 1.50675}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1424.83 -6329.25 207.567}
+			{Angle 0.34528}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1486.81 -5848.6 183.268}
+			{Angle 2.59235}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1414.05 -6290.66 199.21}
+			{Angle 0.344824}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1764.61 4501.4 183.173}
+			{Angle 1.86629}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1378.23 6570.11 155}
+			{Angle 1.53268}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1790.72 4575.67 180}
+			{Angle 1.84342}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1427.77 6517.05 149.352}
+			{Angle 1.50631}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1508.89 -5918.28 196.198}
+			{Angle 2.53033}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1421.28 -6330.24 205.604}
+			{Angle 0.342826}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1761.58 4511.34 183.779}
+			{Angle 1.86634}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1410.42 -6291.63 197.395}
+			{Angle 0.342607}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1377.49 6580.48 155}
+			{Angle 1.53133}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1787.7 4585.62 180.555}
+			{Angle 1.8417}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1427.07 6527.42 150}
+			{Angle 1.50604}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1758.55 4521.29 184}
+			{Angle 1.86635}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1417.75 -6331.23 204.068}
+			{Angle 0.340164}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1376.79 6590.85 155}
+			{Angle 1.53148}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1406.79 -6292.6 195.687}
+			{Angle 0.339473}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1426.37 6537.78 150.291}
+			{Angle 1.50585}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1784.67 4595.57 181}
+			{Angle 1.84173}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1376.03 6601.22 155}
+			{Angle 1.52914}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1755.51 4531.24 183.999}
+			{Angle 1.86633}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1414.13 -6332.25 202.341}
+			{Angle 0.335763}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1403.09 -6293.6 193.959}
+			{Angle 0.33545}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1425.67 6548.15 150.894}
+			{Angle 1.50556}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1781.63 4605.52 181}
+			{Angle 1.84199}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1375.28 6611.59 155}
+			{Angle 1.52728}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1752.48 4541.18 184}
+			{Angle 1.86636}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1410.53 -6333.24 200.766}
+			{Angle 0.333534}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1399.48 -6294.58 192.405}
+			{Angle 0.333309}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1424.98 6558.52 151}
+			{Angle 1.50523}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1778.59 4615.47 181}
+			{Angle 1.84181}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1374.57 6621.97 155}
+			{Angle 1.52742}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1406.89 -6334.22 198.836}
+			{Angle 0.332163}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1395.87 -6295.58 190.434}
+			{Angle 0.332115}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1749.45 4551.13 184}
+			{Angle 1.86646}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1424.28 6568.89 152}
+			{Angle 1.50495}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1775.56 4625.41 181}
+			{Angle 1.84152}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1500.83 -5912.33 192.703}
+			{Angle 2.41445}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1486.18 -5838.23 182.142}
+			{Angle 2.45673}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1403.21 -6335.2 197.168}
+			{Angle 0.331836}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1373.82 6632.34 155}
+			{Angle 1.52534}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1392.27 -6296.58 188.864}
+			{Angle 0.330956}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1423.58 6579.26 152.144}
+			{Angle 1.50456}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1746.41 4561.08 183.977}
+			{Angle 1.8664}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1399.6 -6336.24 195.539}
+			{Angle 0.324568}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1772.53 4635.36 181}
+			{Angle 1.84168}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1388.49 -6297.57 187.054}
+			{Angle 0.322993}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1373.08 6642.71 155}
+			{Angle 1.52369}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1396.02 -6337.26 193.815}
+			{Angle 0.318812}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1422.88 6589.64 152.329}
+			{Angle 1.5044}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1384.8 -6298.56 185.429}
+			{Angle 0.317768}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1743.37 4571.02 184}
+			{Angle 1.86628}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1769.49 4645.3 181.196}
+			{Angle 1.84329}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1372.34 6653.08 154.771}
+			{Angle 1.52237}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1392.44 -6338.28 192.538}
+			{Angle 0.312608}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1381.08 -6299.56 183.365}
+			{Angle 0.311777}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1422.18 6600.01 152.469}
+			{Angle 1.50388}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1740.33 4580.97 184}
+			{Angle 1.8663}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1388.7 -6339.32 190.911}
+			{Angle 0.308598}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1377.32 -6300.58 182.867}
+			{Angle 0.307933}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1766.45 4655.25 181.804}
+			{Angle 1.84403}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1371.6 6663.46 154}
+			{Angle 1.52124}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1385.02 -6340.34 188.966}
+			{Angle 0.304257}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1421.48 6610.39 152.609}
+			{Angle 1.50366}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1373.6 -6301.59 182.367}
+			{Angle 0.303323}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1737.3 4590.92 184}
+			{Angle 1.8663}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1381.31 -6341.37 187.395}
+			{Angle 0.300474}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1369.84 -6302.62 182}
+			{Angle 0.299774}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1370.74 6673.82 154}
+			{Angle 1.51955}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1763.42 4665.19 182}
+			{Angle 1.84403}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1420.79 6620.76 153}
+			{Angle 1.50351}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1377.59 -6342.4 186.423}
+			{Angle 0.296192}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1366.05 -6303.63 182}
+			{Angle 0.293928}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1734.26 4600.86 184}
+			{Angle 1.86631}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1373.91 -6343.48 185.688}
+			{Angle 0.286683}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1368.39 6683.95 154}
+			{Angle 1.49505}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1760.38 4675.14 182}
+			{Angle 1.84496}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1419.95 6631.13 153}
+			{Angle 1.46838}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1362.22 -6304.67 181.339}
+			{Angle 0.268981}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1370.21 -6344.53 184.948}
+			{Angle 0.256341}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1731.22 4610.81 184}
+			{Angle 1.86635}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1358.39 -6305.63 181}
+			{Angle 0.237198}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1366.45 -6345.48 184.386}
+			{Angle 0.231934}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1363.87 6693.31 153.925}
+			{Angle 1.43162}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1418.68 6641.45 153}
+			{Angle 1.41821}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1757.33 4685.08 182}
+			{Angle 1.84661}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1354.52 -6306.5 181}
+			{Angle 0.202173}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1362.6 -6346.36 183.793}
+			{Angle 0.202173}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1728.19 4620.76 184}
+			{Angle 1.86636}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1416.88 6651.69 153}
+			{Angle 1.37567}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1358.74 -6347.14 183.341}
+			{Angle 0.177678}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1358.83 6702.4 153}
+			{Angle 1.3744}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1350.64 -6307.26 181}
+			{Angle 0.165662}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1754.31 4695.03 182}
+			{Angle 1.84622}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1354.86 -6347.82 182.958}
+			{Angle 0.153132}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1414.65 6661.85 153}
+			{Angle 1.32684}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1346.73 -6307.89 180.496}
+			{Angle 0.13135}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1350.97 -6348.41 182.799}
+			{Angle 0.13135}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1725.16 4630.7 184}
+			{Angle 1.86614}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1353.42 6711.28 152.654}
+			{Angle 1.31923}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1751.28 4704.98 182}
+			{Angle 1.84587}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1342.79 -6308.4 180.105}
+			{Angle 0.101689}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1347.06 -6348.93 182.198}
+			{Angle 0.101689}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1411.97 6671.9 153}
+			{Angle 1.29554}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1343.13 -6349.34 181.495}
+			{Angle 0.0785719}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1722.11 4640.65 184}
+			{Angle 1.86618}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1338.82 -6308.79 180}
+			{Angle 0.0676315}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1349.9 6721.05 152}
+			{Angle 1.30328}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1339.15 -6349.66 180.762}
+			{Angle 0.0570193}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1748.23 4714.91 182.938}
+			{Angle 1.84899}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1409.15 6681.9 153.076}
+			{Angle 1.29551}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1334.83 -6309.08 180}
+			{Angle 0.0333805}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1335.17 -6349.88 180.066}
+			{Angle 0.0333805}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1719.08 4650.59 184}
+			{Angle 1.86605}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1347.06 6731.04 151.944}
+			{Angle 1.30212}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1745.21 4724.85 183.052}
+			{Angle 1.84818}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1330.85 -6309.22 180}
+			{Angle 0.00301005}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1331.18 -6350.03 180.014}
+			{Angle 0.00301005}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1406.32 6691.91 153}
+			{Angle 1.29543}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1327.18 -6350.07 180}
+			{Angle -0.0208491}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1326.85 -6309.25 180}
+			{Angle -0.0271802}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1716.05 4660.54 184}
+			{Angle 1.86586}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1344.22 6741.03 151}
+			{Angle 1.3002}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1742.19 4734.8 183.656}
+			{Angle 1.84752}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1323.2 -6350 180}
+			{Angle -0.0444773}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1403.5 6701.92 153}
+			{Angle 1.29552}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1322.86 -6309.17 180}
+			{Angle -0.0612396}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1319.21 -6349.85 180}
+			{Angle -0.0674428}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1341.38 6751.03 151}
+			{Angle 1.2982}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1713.01 4670.49 184}
+			{Angle 1.86587}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1318.86 -6308.95 180}
+			{Angle -0.0910002}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1315.22 -6349.61 180}
+			{Angle -0.0910002}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1739.15 4744.73 184}
+			{Angle 1.84939}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1400.68 6711.93 153}
+			{Angle 1.29567}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1311.24 -6349.26 180}
+			{Angle -0.110236}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1314.88 -6308.61 180}
+			{Angle -0.121456}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1338.55 6761 150}
+			{Angle 1.29736}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1709.98 4680.43 184}
+			{Angle 1.86567}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1307.26 -6348.83 180}
+			{Angle -0.138906}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1736.14 4754.67 184.727}
+			{Angle 1.84895}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1310.91 -6308.15 180}
+			{Angle -0.150555}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1397.85 6721.94 153}
+			{Angle 1.29562}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1303.3 -6348.31 180}
+			{Angle -0.161463}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1335.72 6770.99 149.921}
+			{Angle 1.29565}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1706.94 4690.38 184.994}
+			{Angle 1.86547}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1306.99 -6307.57 180}
+			{Angle -0.179493}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1299.38 -6347.69 180}
+			{Angle -0.185816}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1733.13 4764.62 185}
+			{Angle 1.84754}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1395.03 6731.95 153}
+			{Angle 1.29585}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1295.45 -6346.98 180}
+			{Angle -0.208691}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1303.05 -6306.87 180}
+			{Angle -0.214199}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1332.88 6780.99 149}
+			{Angle 1.29374}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1703.91 4700.32 185}
+			{Angle 1.86524}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1291.53 -6346.17 180}
+			{Angle -0.230814}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2329.3 -2074.27 113.045}
+			{Angle -1.92564}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1299.14 -6306.04 180.746}
+			{Angle -0.241947}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1730.09 4774.55 185.077}
+			{Angle 1.849}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1287.63 -6345.27 182.272}
+			{Angle -0.253703}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1392.2 6741.96 152.862}
+			{Angle 1.29601}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2266.82 -2036.51 118}
+			{Angle -1.90557}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1330.06 6790.98 149}
+			{Angle 1.29295}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1295.25 -6305.1 183.564}
+			{Angle -0.275999}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1283.76 -6344.28 184}
+			{Angle -0.275999}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1700.87 4710.26 185.882}
+			{Angle 1.86537}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1727.07 4784.47 185.68}
+			{Angle 1.84894}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1279.91 -6343.19 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1389.38 6751.96 152}
+			{Angle 1.29614}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1291.4 -6304.01 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2332.74 -2084.08 113}
+			{Angle -1.92681}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1327.24 6800.97 148}
+			{Angle 1.29146}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1276.09 -6342.02 184}
+			{Angle -0.296834}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1697.85 4720.2 186}
+			{Angle 1.86502}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1287.57 -6302.85 184}
+			{Angle -0.296724}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1724.05 4794.42 186}
+			{Angle 1.84777}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1386.55 6761.96 152}
+			{Angle 1.29641}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1283.78 -6301.69 184}
+			{Angle -0.29609}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1272.27 -6340.86 184}
+			{Angle -0.29609}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2270.25 -2046.32 118}
+			{Angle -1.90581}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1324.41 6810.97 148}
+			{Angle 1.28979}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1694.82 4730.14 186}
+			{Angle 1.86484}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1279.95 -6300.52 184}
+			{Angle -0.296146}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1268.44 -6339.69 184}
+			{Angle -0.296146}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1383.73 6771.97 151.7}
+			{Angle 1.29633}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1721.02 4804.35 186.692}
+			{Angle 1.84894}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1264.62 -6338.52 184}
+			{Angle -0.296436}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1276.17 -6299.36 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2336.18 -2093.88 112.669}
+			{Angle -1.92822}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1321.59 6820.96 147.942}
+			{Angle 1.28975}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1691.78 4740.09 186.738}
+			{Angle 1.86474}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1260.79 -6337.35 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1272.35 -6298.19 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1718 4814.28 187.376}
+			{Angle 1.84895}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2273.7 -2056.13 118}
+			{Angle -1.90548}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1380.9 6781.97 151}
+			{Angle 1.29656}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1256.97 -6336.18 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1268.52 -6297.02 184}
+			{Angle -0.296437}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1318.76 6830.96 147.153}
+			{Angle 1.28891}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1688.75 4750.02 187}
+			{Angle 1.86458}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1264.69 -6295.86 184}
+			{Angle -0.296429}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1253.14 -6335.02 184}
+			{Angle -0.296429}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1714.98 4824.22 188.074}
+			{Angle 1.84835}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2339.61 -2103.69 111.997}
+			{Angle -1.92941}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1378.08 6791.98 151}
+			{Angle 1.29667}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3195.62 -2394.96 282}
+			{Angle 1.47537}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1249.33 -6333.85 184}
+			{Angle -0.296312}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1260.89 -6294.69 184}
+			{Angle -0.296404}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1315.94 6840.96 147.648}
+			{Angle 1.28747}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1685.72 4759.96 187.995}
+			{Angle 1.86461}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1245.51 -6332.69 184}
+			{Angle -0.29729}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2277.13 -2065.94 118}
+			{Angle -1.90553}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3142.5 -2443.6 275.406}
+			{Angle 1.41872}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1257.09 -6293.54 184}
+			{Angle -0.297279}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1711.96 4834.15 188.703}
+			{Angle 1.84811}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1375.25 6801.98 150.145}
+			{Angle 1.2967}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1241.68 -6331.52 184}
+			{Angle -0.29669}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1253.32 -6292.38 184}
+			{Angle -0.296518}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1313.12 6850.97 147.282}
+			{Angle 1.28936}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1682.69 4769.9 188}
+			{Angle 1.86462}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3197.23 -2384.69 282}
+			{Angle 1.47317}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1237.86 -6330.35 182.251}
+			{Angle -0.296525}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2343.06 -2113.5 112}
+			{Angle -1.93043}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1249.49 -6291.21 184}
+			{Angle -0.296555}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1708.92 4844.09 189}
+			{Angle 1.84819}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1372.43 6811.98 150}
+			{Angle 1.29662}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3144.03 -2433.32 275.711}
+			{Angle 1.41818}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2280.57 -2075.76 117.791}
+			{Angle -1.90544}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1245.67 -6290.05 184}
+			{Angle -0.296509}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1234.03 -6329.18 180}
+			{Angle -0.296509}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1310.29 6860.97 147}
+			{Angle 1.28816}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1679.66 4779.84 189}
+			{Angle 1.86472}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1241.85 -6288.88 180.956}
+			{Angle -0.296427}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1230.21 -6328.01 180}
+			{Angle -0.296427}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1705.88 4854.03 188.919}
+			{Angle 1.84848}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3198.87 -2374.45 281}
+			{Angle 1.47085}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1369.61 6821.98 150}
+			{Angle 1.29647}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1238.03 -6287.71 180}
+			{Angle -0.29655}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1226.39 -6326.85 180}
+			{Angle -0.29655}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2346.48 -2123.31 111.61}
+			{Angle -1.93038}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3145.59 -2423.04 275.724}
+			{Angle 1.41765}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1307.46 6870.98 147.371}
+			{Angle 1.28864}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1676.62 4789.78 189}
+			{Angle 1.86495}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1234.21 -6286.55 180}
+			{Angle -0.296541}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1222.57 -6325.68 180}
+			{Angle -0.296541}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1702.82 4863.96 189.37}
+			{Angle 1.8507}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2284.03 -2085.57 117.1}
+			{Angle -1.90511}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1366.79 6831.99 149.315}
+			{Angle 1.29653}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3200.45 -2364.18 280.925}
+			{Angle 1.47105}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1218.75 -6324.53 180}
+			{Angle -0.305238}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1230.38 -6285.4 180}
+			{Angle -0.311442}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1304.64 6880.99 147}
+			{Angle 1.29054}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1673.59 4799.72 189.85}
+			{Angle 1.86503}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3147.16 -2412.76 275.104}
+			{Angle 1.41695}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1214.95 -6323.34 180.318}
+			{Angle -0.327742}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1699.79 4873.91 190}
+			{Angle 1.85027}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2349.9 -2133.11 110.926}
+			{Angle -1.93271}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1363.97 6841.99 149}
+			{Angle 1.29617}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1226.57 -6284.2 180}
+			{Angle -0.345227}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3202.07 -2353.92 279.879}
+			{Angle 1.4694}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1211.18 -6322.07 180.929}
+			{Angle -0.355885}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1301.82 6891 147.542}
+			{Angle 1.2911}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2287.45 -2095.38 117}
+			{Angle -1.9051}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1670.56 4809.65 190}
+			{Angle 1.86501}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3148.7 -2402.48 274.645}
+			{Angle 1.41608}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1222.82 -6282.87 180.355}
+			{Angle -0.372264}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1207.44 -6320.7 181}
+			{Angle -0.379145}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1696.76 4883.85 190}
+			{Angle 1.84969}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1361.15 6851.99 148.795}
+			{Angle 1.29598}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1203.75 -6319.24 181.02}
+			{Angle -0.398767}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3203.73 -2343.7 278.834}
+			{Angle 1.46567}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1219.1 -6281.44 180.552}
+			{Angle -0.405771}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1299 6901.01 148.105}
+			{Angle 1.29287}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1667.53 4819.6 190}
+			{Angle 1.86515}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3150.24 -2392.2 274.462}
+			{Angle 1.4157}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2353.35 -2142.92 111}
+			{Angle -1.93162}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1200.07 -6317.72 181.413}
+			{Angle -0.426486}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1215.45 -6279.89 181.004}
+			{Angle -0.435909}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1693.7 4893.78 190.354}
+			{Angle 1.85163}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1196.42 -6316.08 181.941}
+			{Angle -0.446092}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1358.32 6861.99 148}
+			{Angle 1.29594}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3205.27 -2333.42 278}
+			{Angle 1.46633}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2290.89 -2105.19 116.728}
+			{Angle -1.90524}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1296.19 6911.01 147.964}
+			{Angle 1.29383}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3151.81 -2381.93 274.268}
+			{Angle 1.41495}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1211.83 -6278.24 181.728}
+			{Angle -0.468846}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1192.84 -6314.38 182.526}
+			{Angle -0.468846}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1664.49 4829.54 191}
+			{Angle 1.8654}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1690.65 4903.72 190.964}
+			{Angle 1.85286}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1189.3 -6312.59 183.234}
+			{Angle -0.497741}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1355.5 6871.99 148}
+			{Angle 1.29564}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3206.86 -2323.15 278}
+			{Angle 1.4659}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1208.25 -6276.48 182.271}
+			{Angle -0.504233}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2356.78 -2152.74 110.55}
+			{Angle -1.93226}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3153.36 -2371.65 274.577}
+			{Angle 1.41447}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1185.84 -6310.73 183.927}
+			{Angle -0.523972}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1293.38 6921.02 148.12}
+			{Angle 1.29603}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1661.46 4839.48 191}
+			{Angle 1.86551}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1204.73 -6274.61 183.131}
+			{Angle -0.538929}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2294.34 -2115 117}
+			{Angle -1.90499}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1687.63 4913.67 190.724}
+			{Angle 1.85137}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3208.49 -2312.91 277.872}
+			{Angle 1.46342}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1182.41 -6308.8 185.369}
+			{Angle -0.549419}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1352.68 6882 147}
+			{Angle 1.29567}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3154.89 -2361.36 273.883}
+			{Angle 1.41417}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1201.31 -6272.65 183.832}
+			{Angle -0.567687}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1179.07 -6306.81 186.825}
+			{Angle -0.573781}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1290.57 6931.03 147.791}
+			{Angle 1.29797}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1658.43 4849.43 191}
+			{Angle 1.86562}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3210.11 -2302.66 276.973}
+			{Angle 1.46171}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1197.95 -6270.59 184.505}
+			{Angle -0.600989}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1175.74 -6304.72 187.908}
+			{Angle -0.600989}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2360.22 -2162.53 109.862}
+			{Angle -1.93626}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1684.57 4923.6 191.182}
+			{Angle 1.85399}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1349.85 6892 147}
+			{Angle 1.29548}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3156.46 -2351.1 273.198}
+			{Angle 1.41341}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1172.48 -6302.57 188.99}
+			{Angle -0.62698}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1194.67 -6268.45 185.161}
+			{Angle -0.633482}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2297.78 -2124.81 116.349}
+			{Angle -1.90501}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1287.77 6941.05 148.351}
+			{Angle 1.30057}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1655.38 4859.37 191}
+			{Angle 1.86599}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1169.29 -6300.34 190.113}
+			{Angle -0.64702}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3211.68 -2292.4 276.139}
+			{Angle 1.46186}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1681.49 4933.52 191.797}
+			{Angle 1.85764}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3158.02 -2340.82 272.509}
+			{Angle 1.41292}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1347.03 6902 146.347}
+			{Angle 1.29534}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1191.46 -6266.22 185.803}
+			{Angle -0.670075}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1166.12 -6298.05 190.87}
+			{Angle -0.674986}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1285 6951.06 148.906}
+			{Angle 1.30497}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2363.65 -2172.35 110}
+			{Angle -1.93449}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1652.35 4869.32 191.769}
+			{Angle 1.86611}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3213.27 -2282.14 275.292}
+			{Angle 1.46011}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1188.32 -6263.9 186.555}
+			{Angle -0.700466}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1163.07 -6295.7 191.963}
+			{Angle -0.700466}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1678.48 4943.48 192}
+			{Angle 1.85486}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3159.55 -2330.54 271.815}
+			{Angle 1.41364}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1344.2 6912 146}
+			{Angle 1.29537}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2301.21 -2134.63 116}
+			{Angle -1.90502}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1160.07 -6293.29 193.08}
+			{Angle -0.729735}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1185.22 -6261.48 187.68}
+			{Angle -0.738684}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1282.19 6961.08 148.936}
+			{Angle 1.30601}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1649.32 4879.26 192}
+			{Angle 1.86596}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3214.83 -2271.88 275}
+			{Angle 1.45965}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1157.13 -6290.78 193.669}
+			{Angle -0.750356}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1675.43 4953.42 192}
+			{Angle 1.85631}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3161.11 -2320.27 271.276}
+			{Angle 1.41341}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1182.2 -6258.97 188.727}
+			{Angle -0.770863}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1341.37 6922.01 145.255}
+			{Angle 1.29523}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1154.23 -6288.24 194.497}
+			{Angle -0.783126}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2367.08 -2182.16 109.49}
+			{Angle -1.93514}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1279.4 6971.1 148.879}
+			{Angle 1.30893}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3216.36 -2261.59 275.177}
+			{Angle 1.46038}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1151.39 -6285.6 195.631}
+			{Angle -0.803183}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1646.28 4889.2 192.121}
+			{Angle 1.86631}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1179.27 -6256.4 189.866}
+			{Angle -0.810166}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3162.67 -2309.99 271.44}
+			{Angle 1.41358}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2304.65 -2144.44 115.975}
+			{Angle -1.90503}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1672.36 4963.35 192}
+			{Angle 1.85934}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1148.62 -6282.91 197.067}
+			{Angle -0.829037}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1338.54 6932.01 145}
+			{Angle 1.29531}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1176.44 -6253.72 190.938}
+			{Angle -0.840021}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3217.93 -2251.32 275.491}
+			{Angle 1.45987}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1145.88 -6280.14 198.714}
+			{Angle -0.851994}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1276.6 6981.11 147.947}
+			{Angle 1.31138}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1643.25 4899.15 192}
+			{Angle 1.86639}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3164.21 -2299.71 270.747}
+			{Angle 1.4139}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1173.72 -6250.98 192.41}
+			{Angle -0.87356}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2370.53 -2191.97 109.8}
+			{Angle -1.93784}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1669.34 4973.3 192}
+			{Angle 1.85835}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1143.21 -6277.33 199.651}
+			{Angle -0.880296}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1335.71 6942.01 145}
+			{Angle 1.2952}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3219.47 -2241.05 275}
+			{Angle 1.45929}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1171.06 -6248.14 193.796}
+			{Angle -0.898512}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1140.63 -6274.45 200.937}
+			{Angle -0.898512}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2308.11 -2154.25 115.284}
+			{Angle -1.90501}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1273.79 6991.12 147.889}
+			{Angle 1.31236}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1640.22 4909.09 192}
+			{Angle 1.86622}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3165.77 -2289.44 270.06}
+			{Angle 1.41425}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1138.14 -6271.53 201.746}
+			{Angle -0.926118}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1666.32 4983.25 192}
+			{Angle 1.85706}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1168.45 -6245.24 194.75}
+			{Angle -0.932687}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1332.87 6952.02 145}
+			{Angle 1.29513}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3221 -2230.76 274.92}
+			{Angle 1.46004}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1135.69 -6268.54 202.921}
+			{Angle -0.950188}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3167.32 -2279.16 269.37}
+			{Angle 1.41497}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2373.96 -2201.78 109.114}
+			{Angle -1.93638}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1271 7001.14 147.611}
+			{Angle 1.31448}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1637.18 4919.04 192}
+			{Angle 1.86644}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1165.99 -6242.26 196.247}
+			{Angle -0.966612}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1133.28 -6265.47 203.879}
+			{Angle -0.972268}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1663.23 4993.18 192}
+			{Angle 1.86071}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3222.51 -2220.47 274.408}
+			{Angle 1.46118}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2311.53 -2164.06 115}
+			{Angle -1.905}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1330.05 6962.02 144.722}
+			{Angle 1.29515}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1163.59 -6239.2 197.376}
+			{Angle -0.996121}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1130.95 -6262.36 205.244}
+			{Angle -0.996121}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3168.89 -2268.88 269.554}
+			{Angle 1.41563}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1634.15 4928.98 192}
+			{Angle 1.86665}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1268.18 7011.15 147}
+			{Angle 1.31488}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1161.29 -6236.05 197.837}
+			{Angle -1.024}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1128.69 -6259.19 206.381}
+			{Angle -1.024}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1660.18 5003.12 192}
+			{Angle 1.86246}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3224.04 -2210.18 274.713}
+			{Angle 1.46126}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1327.21 6972.02 144}
+			{Angle 1.29506}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2377.38 -2211.59 108.43}
+			{Angle -1.93723}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3170.44 -2258.61 268.994}
+			{Angle 1.41675}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1126.5 -6255.95 207.362}
+			{Angle -1.02843}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1631.12 4938.93 193}
+			{Angle 1.8666}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1159.12 -6232.82 198.789}
+			{Angle -1.02772}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1265.39 7021.17 147}
+			{Angle 1.31732}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1657.17 5013.08 192}
+			{Angle 1.85955}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2314.97 -2173.87 115}
+			{Angle -1.90467}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1124.32 -6252.7 208.23}
+			{Angle -1.02716}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3225.57 -2199.9 275}
+			{Angle 1.46191}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1156.95 -6229.57 199.702}
+			{Angle -1.02742}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1324.39 6982.03 144}
+			{Angle 1.29495}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3172 -2248.33 269.065}
+			{Angle 1.41709}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1628.08 4948.88 193}
+			{Angle 1.86669}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1122.18 -6249.47 208.659}
+			{Angle -1.02832}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1154.78 -6226.34 200.276}
+			{Angle -1.02842}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1262.57 7031.18 146.914}
+			{Angle 1.31792}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1654.11 5023.02 192}
+			{Angle 1.86218}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3227.1 -2189.61 275}
+			{Angle 1.4629}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1120.01 -6246.22 209.093}
+			{Angle -1.028}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2380.82 -2221.4 107.742}
+			{Angle -1.94003}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1152.64 -6223.1 201.257}
+			{Angle -1.02663}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1321.57 6992.04 144}
+			{Angle 1.29485}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3173.57 -2238.05 268.62}
+			{Angle 1.417}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1625.05 4958.82 193}
+			{Angle 1.86677}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1117.82 -6242.99 209.531}
+			{Angle -1.0247}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2318.43 -2183.68 115.182}
+			{Angle -1.90465}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1259.73 7041.18 146}
+			{Angle 1.3168}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1651.06 5032.96 192}
+			{Angle 1.86399}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1150.53 -6219.88 201.987}
+			{Angle -1.02416}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3228.64 -2179.33 274.633}
+			{Angle 1.46333}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1115.63 -6239.73 209.968}
+			{Angle -1.02277}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3175.13 -2227.77 268.579}
+			{Angle 1.41778}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1148.36 -6216.62 203.18}
+			{Angle -1.02265}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1318.74 7002.05 144}
+			{Angle 1.29484}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1622.01 4968.77 193}
+			{Angle 1.86677}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1648.04 5042.91 192}
+			{Angle 1.86238}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1146.19 -6213.35 204.059}
+			{Angle -1.02206}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1113.46 -6236.46 211.172}
+			{Angle -1.02206}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2384.27 -2231.21 108}
+			{Angle -1.93961}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1256.93 7051.19 146}
+			{Angle 1.31794}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3230.12 -2169.04 274.929}
+			{Angle 1.46546}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3176.69 -2217.49 268.243}
+			{Angle 1.41861}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1111.26 -6233.19 212.109}
+			{Angle -1.0202}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1618.98 4978.72 192.701}
+			{Angle 1.86681}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1144.03 -6210.09 205.209}
+			{Angle -1.01951}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2321.85 -2193.49 115}
+			{Angle -1.90486}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1315.92 7012.06 144}
+			{Angle 1.29498}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1644.98 5052.85 192}
+			{Angle 1.86467}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3231.69 -2158.76 275}
+			{Angle 1.46432}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1109.08 -6229.93 213.219}
+			{Angle -1.01828}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1254.09 7061.2 146}
+			{Angle 1.31741}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1141.86 -6206.84 206.11}
+			{Angle -1.01808}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3178.26 -2207.21 268.094}
+			{Angle 1.41895}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1615.95 4988.66 192.095}
+			{Angle 1.86681}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1106.9 -6226.67 214.284}
+			{Angle -1.01755}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1139.7 -6203.58 207.154}
+			{Angle -1.01747}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2387.69 -2241.02 107.367}
+			{Angle -1.94057}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1313.1 7022.07 144}
+			{Angle 1.29482}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1641.93 5062.79 192}
+			{Angle 1.86639}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3233.21 -2148.47 274.904}
+			{Angle 1.46547}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1251.22 7071.17 145.569}
+			{Angle 1.31427}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1137.56 -6200.35 207.582}
+			{Angle -1.01663}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1104.72 -6223.43 215.183}
+			{Angle -1.01663}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3179.81 -2196.93 267.867}
+			{Angle 1.41927}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2325.3 -2203.3 114.962}
+			{Angle -1.90448}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1612.91 4998.61 192}
+			{Angle 1.86681}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2663.12 1775.85 190}
+			{Angle 1.90029}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1638.9 5072.74 192}
+			{Angle 1.86545}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1135.41 -6197.1 208.505}
+			{Angle -1.01603}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1102.53 -6220.17 216.1}
+			{Angle -1.01603}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1310.28 7032.08 144}
+			{Angle 1.29477}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3234.71 -2138.19 274.848}
+			{Angle 1.467}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1248.41 7081.19 145}
+			{Angle 1.31543}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3181.38 -2186.65 268.181}
+			{Angle 1.41986}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1100.33 -6216.89 217.029}
+			{Angle -1.01529}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1609.88 5008.56 192}
+			{Angle 1.86683}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1133.23 -6193.81 209.512}
+			{Angle -1.01499}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2391.12 -2250.83 106.765}
+			{Angle -1.94165}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1635.86 5082.68 192}
+			{Angle 1.86714}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1098.12 -6213.59 217.471}
+			{Angle -1.01367}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1307.45 7042.08 144}
+			{Angle 1.29483}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3236.29 -2127.91 275}
+			{Angle 1.46697}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1131.06 -6190.52 210.59}
+			{Angle -1.01305}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3182.95 -2176.37 267.681}
+			{Angle 1.41926}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2328.75 -2213.11 115}
+			{Angle -1.90445}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1245.58 7091.19 145}
+			{Angle 1.31461}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1606.84 5018.51 192}
+			{Angle 1.8668}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1095.89 -6210.3 217.917}
+			{Angle -1.0118}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1128.9 -6187.24 211.315}
+			{Angle -1.01176}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1632.82 5092.63 192}
+			{Angle 1.86751}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1304.63 7052.09 144}
+			{Angle 1.29487}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3237.8 -2117.62 275}
+			{Angle 1.4688}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1093.69 -6207.03 218.356}
+			{Angle -1.01033}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1126.75 -6183.98 211.744}
+			{Angle -1.00966}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3184.51 -2166.09 267.808}
+			{Angle 1.41977}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1603.81 5028.45 192}
+			{Angle 1.86677}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1242.72 7101.19 145}
+			{Angle 1.31191}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1091.48 -6203.75 218.798}
+			{Angle -1.00819}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2394.56 -2260.65 106.994}
+			{Angle -1.94207}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1629.78 5102.58 192}
+			{Angle 1.86777}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2685.27 1855.13 187}
+			{Angle 1.88495}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1124.6 -6180.72 212.175}
+			{Angle -1.00779}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3239.36 -2107.34 274.777}
+			{Angle 1.46898}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1301.82 7062.11 144}
+			{Angle 1.29513}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1089.29 -6200.48 219.237}
+			{Angle -1.0063}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2659.76 1785.7 190}
+			{Angle 1.90026}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3186.08 -2155.81 268}
+			{Angle 1.41962}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1122.44 -6177.46 212.606}
+			{Angle -1.00619}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2332.17 -2222.93 114.32}
+			{Angle -1.90459}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1600.78 5038.4 191.451}
+			{Angle 1.86674}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1239.88 7111.19 145}
+			{Angle 1.31032}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1087.09 -6197.2 219.827}
+			{Angle -1.00542}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1626.73 5112.52 192}
+			{Angle 1.86993}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1120.26 -6174.18 213.111}
+			{Angle -1.00509}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3240.89 -2097.05 275}
+			{Angle 1.46947}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1298.99 7072.12 144}
+			{Angle 1.29512}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3187.64 -2145.53 267.433}
+			{Angle 1.41972}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1084.89 -6193.9 220.242}
+			{Angle -1.00379}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1597.75 5048.34 191.455}
+			{Angle 1.86669}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1118.07 -6170.88 214.209}
+			{Angle -1.00368}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2397.98 -2270.46 106.309}
+			{Angle -1.9434}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1237.05 7121.2 145}
+			{Angle 1.31041}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1623.69 5122.46 191.744}
+			{Angle 1.87044}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1082.68 -6190.6 221.344}
+			{Angle -1.00326}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3242.47 -2086.78 274.399}
+			{Angle 1.46894}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1115.88 -6167.58 215.274}
+			{Angle -1.00293}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2681.91 1864.97 187}
+			{Angle 1.88431}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3189.2 -2135.24 267.745}
+			{Angle 1.4198}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2335.63 -2232.73 114}
+			{Angle -1.90423}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1296.17 7082.12 144}
+			{Angle 1.29506}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1594.71 5058.29 191.478}
+			{Angle 1.86667}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2656.4 1795.54 189.803}
+			{Angle 1.90022}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1113.71 -6164.31 216.352}
+			{Angle -1.00143}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1080.47 -6187.31 222}
+			{Angle -1.00143}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1234.21 7131.19 144.865}
+			{Angle 1.30878}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1620.66 5132.41 191}
+			{Angle 1.87052}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3244.02 -2076.5 274}
+			{Angle 1.47011}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1111.54 -6161.02 216.786}
+			{Angle -0.99972}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1078.25 -6184.01 222.399}
+			{Angle -0.99972}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3190.77 -2124.96 268.06}
+			{Angle 1.41915}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1293.36 7092.14 144}
+			{Angle 1.2953}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1591.68 5068.24 191.242}
+			{Angle 1.86665}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1076.05 -6180.73 222.212}
+			{Angle -0.998886}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1617.61 5142.35 191}
+			{Angle 1.87169}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1109.37 -6157.74 217.577}
+			{Angle -0.998365}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2401.4 -2280.27 106}
+			{Angle -1.94367}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2678.55 1874.81 187}
+			{Angle 1.88561}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1231.36 7141.19 144}
+			{Angle 1.30666}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3245.6 -2066.22 274}
+			{Angle 1.46902}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1073.83 -6177.42 222.611}
+			{Angle -0.997418}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2653.04 1805.38 189.009}
+			{Angle 1.90008}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3192.33 -2114.68 267.372}
+			{Angle 1.41898}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1107.19 -6154.45 218.656}
+			{Angle -0.997105}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1588.65 5078.18 191}
+			{Angle 1.86657}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2339.06 -2242.55 114}
+			{Angle -1.9041}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1290.53 7102.15 144}
+			{Angle 1.29528}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1614.57 5152.3 191}
+			{Angle 1.87278}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1105 -6151.14 219.094}
+			{Angle -0.996162}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1071.6 -6174.11 223}
+			{Angle -0.996162}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1228.54 7151.2 144}
+			{Angle 1.30677}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3247.17 -2055.94 273.525}
+			{Angle 1.4694}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3193.89 -2104.4 267.658}
+			{Angle 1.419}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1585.62 5088.13 191}
+			{Angle 1.86652}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2675.19 1884.65 187}
+			{Angle 1.88594}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1102.81 -6147.83 219.533}
+			{Angle -0.995368}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1069.37 -6170.8 223.219}
+			{Angle -0.995368}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1287.7 7112.15 144}
+			{Angle 1.29515}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1611.53 5162.24 191}
+			{Angle 1.87327}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2649.68 1815.22 189.008}
+			{Angle 1.90009}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2404.83 -2290.08 105.939}
+			{Angle -1.94383}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3248.77 -2045.68 273.152}
+			{Angle 1.46852}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1067.15 -6167.49 223.665}
+			{Angle -0.994175}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1225.71 7161.2 144}
+			{Angle 1.30661}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1100.62 -6144.52 219.97}
+			{Angle -0.993872}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1582.58 5098.07 190.203}
+			{Angle 1.86649}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3195.45 -2094.12 266.996}
+			{Angle 1.41804}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2671.83 1894.49 187}
+			{Angle 1.88619}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1064.93 -6164.17 224.008}
+			{Angle -0.992933}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2342.5 -2252.36 114}
+			{Angle -1.90391}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1284.89 7122.16 143.976}
+			{Angle 1.29541}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1608.51 5172.18 190.4}
+			{Angle 1.87258}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1098.43 -6141.21 220.409}
+			{Angle -0.992602}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2646.32 1825.06 189}
+			{Angle 1.90008}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3250.34 -2035.4 273}
+			{Angle 1.46793}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1222.86 7171.2 144}
+			{Angle 1.30404}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1579.55 5108.02 190}
+			{Angle 1.86642}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3197 -2083.84 267.305}
+			{Angle 1.41816}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1062.71 -6160.87 224.405}
+			{Angle -0.991611}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1096.25 -6137.92 220.845}
+			{Angle -0.991423}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1605.46 5182.12 190}
+			{Angle 1.87438}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1282.06 7132.17 143.828}
+			{Angle 1.29541}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2668.47 1904.33 187}
+			{Angle 1.88666}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2642.96 1834.9 189}
+			{Angle 1.90011}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3251.88 -2025.11 273}
+			{Angle 1.46866}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1094.06 -6134.62 221.283}
+			{Angle -0.990231}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1060.5 -6157.56 224.995}
+			{Angle -0.990231}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2408.25 -2299.89 105.256}
+			{Angle -1.94577}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1220.03 7181.21 144}
+			{Angle 1.30396}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1576.52 5117.96 190}
+			{Angle 1.8664}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3198.56 -2073.56 267.423}
+			{Angle 1.41838}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1602.43 5192.07 190}
+			{Angle 1.87417}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1091.86 -6131.31 221.723}
+			{Angle -0.988914}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1058.27 -6154.25 225.025}
+			{Angle -0.988914}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1279.24 7142.18 143.058}
+			{Angle 1.29538}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2665.11 1914.18 187}
+			{Angle 1.88704}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3253.49 -2014.85 272.63}
+			{Angle 1.46704}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2345.96 -2262.17 113.713}
+			{Angle -1.90349}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2639.6 1844.74 189}
+			{Angle 1.90004}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1573.49 5127.91 190}
+			{Angle 1.86637}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1089.65 -6127.99 222.164}
+			{Angle -0.988352}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1056.05 -6150.93 225.637}
+			{Angle -0.988352}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1217.22 7191.22 144}
+			{Angle 1.30505}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3200.12 -2063.28 266.93}
+			{Angle 1.41762}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1599.4 5202.01 190}
+			{Angle 1.87395}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1053.82 -6147.61 226}
+			{Angle -0.988054}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1276.42 7152.19 143.409}
+			{Angle 1.29546}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2661.74 1924.02 187}
+			{Angle 1.88758}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3255.07 -2004.58 272.009}
+			{Angle 1.4664}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1087.46 -6124.68 222.603}
+			{Angle -0.987793}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1570.46 5137.85 189.997}
+			{Angle 1.86628}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2636.24 1854.58 189}
+			{Angle 1.90006}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3201.66 -2053 266.767}
+			{Angle 1.41749}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1214.37 7201.22 144}
+			{Angle 1.30225}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1596.36 5211.95 189.704}
+			{Angle 1.87471}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2411.68 -2309.7 105}
+			{Angle -1.94577}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1085.27 -6121.38 223.041}
+			{Angle -0.986924}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1051.6 -6144.3 226}
+			{Angle -0.986924}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1273.59 7162.2 143.122}
+			{Angle 1.29553}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2658.38 1933.86 187}
+			{Angle 1.88793}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3256.62 -1994.3 272}
+			{Angle 1.467}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1567.42 5147.8 189.39}
+			{Angle 1.86625}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2632.88 1864.42 189}
+			{Angle 1.89998}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1083.06 -6118.06 223.483}
+			{Angle -0.986382}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1049.37 -6140.97 226}
+			{Angle -0.986382}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2349.38 -2271.98 113.03}
+			{Angle -1.90347}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1211.55 7211.23 144}
+			{Angle 1.30237}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1593.33 5221.9 189}
+			{Angle 1.8745}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3203.22 -2042.72 266.351}
+			{Angle 1.41746}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1047.15 -6137.66 226}
+			{Angle -0.985899}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1270.77 7172.21 143}
+			{Angle 1.29553}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1564.39 5157.75 189}
+			{Angle 1.86628}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2655.02 1943.7 187}
+			{Angle 1.88888}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3258.23 -1984.02 271.551}
+			{Angle 1.46476}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1080.85 -6114.74 223.925}
+			{Angle -0.985779}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1493.4 -5905.49 189.169}
+			{Angle 2.30846}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1590.29 5231.85 189}
+			{Angle 1.87488}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2629.52 1874.26 189}
+			{Angle 1.89987}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3204.78 -2032.44 265.861}
+			{Angle 1.41762}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1208.73 7221.25 144}
+			{Angle 1.30361}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1044.93 -6134.33 226}
+			{Angle -0.985396}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1078.64 -6111.42 224}
+			{Angle -0.985272}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2415.1 -2319.51 104.886}
+			{Angle -1.94452}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1561.36 5167.69 189}
+			{Angle 1.86628}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3259.75 -1973.74 271.855}
+			{Angle 1.46594}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1267.94 7182.22 143}
+			{Angle 1.29556}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2651.66 1953.54 187}
+			{Angle 1.88882}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1587.25 5241.79 189.094}
+			{Angle 1.8754}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2626.16 1884.11 188.9}
+			{Angle 1.89987}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1076.42 -6108.09 224.232}
+			{Angle -0.984853}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1042.71 -6131.01 226}
+			{Angle -0.984853}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3206.34 -2022.16 266.173}
+			{Angle 1.41752}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1205.9 7231.25 144}
+			{Angle 1.30232}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2352.82 -2281.79 112.64}
+			{Angle -1.90331}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1558.33 5177.64 189}
+			{Angle 1.86629}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3261.34 -1963.46 272}
+			{Angle 1.46545}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1074.2 -6104.77 224.963}
+			{Angle -0.984666}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1040.5 -6127.69 226}
+			{Angle -0.984666}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1265.12 7192.23 143}
+			{Angle 1.29559}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2648.3 1963.38 187}
+			{Angle 1.88933}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1584.21 5251.74 189.811}
+			{Angle 1.87596}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2622.8 1893.95 188}
+			{Angle 1.89985}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3207.89 -2011.88 266.484}
+			{Angle 1.41772}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1203.08 7241.26 144}
+			{Angle 1.30254}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1071.99 -6101.45 225}
+			{Angle -0.984344}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1038.27 -6124.37 226}
+			{Angle -0.984344}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1555.29 5187.58 188.964}
+			{Angle 1.8664}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1483.88 -5828.09 182}
+			{Angle 2.35941}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3262.91 -1953.18 272}
+			{Angle 1.46382}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1262.29 7202.23 143}
+			{Angle 1.2956}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1581.19 5261.69 189.649}
+			{Angle 1.87477}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2644.93 1973.22 187}
+			{Angle 1.89013}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2619.44 1903.79 188}
+			{Angle 1.89985}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1036.05 -6121.04 226}
+			{Angle -0.984063}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3209.44 -2001.59 265.793}
+			{Angle 1.41841}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1069.78 -6098.13 225}
+			{Angle -0.983988}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2418.53 -2329.32 104.199}
+			{Angle -1.94674}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1200.26 7251.27 144}
+			{Angle 1.30331}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1552.26 5197.53 188.357}
+			{Angle 1.86645}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1578.16 5271.63 189}
+			{Angle 1.87433}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3264.41 -1942.89 271.931}
+			{Angle 1.46512}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1259.47 7212.24 143}
+			{Angle 1.29564}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2641.57 1983.07 187}
+			{Angle 1.89013}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1067.57 -6094.81 225}
+			{Angle -0.983537}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1033.83 -6117.72 226.571}
+			{Angle -0.983537}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2616.08 1913.63 188}
+			{Angle 1.89985}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3210.99 -1991.31 266.037}
+			{Angle 1.41872}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2356.28 -2291.6 112.65}
+			{Angle -1.90326}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1197.43 7261.28 144}
+			{Angle 1.30285}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1549.22 5207.48 188}
+			{Angle 1.86646}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1065.35 -6091.48 225.618}
+			{Angle -0.983315}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1031.61 -6114.4 227}
+			{Angle -0.983315}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1575.11 5281.58 189}
+			{Angle 1.87526}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3266 -1932.62 272}
+			{Angle 1.46461}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1256.64 7222.25 143}
+			{Angle 1.2957}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2638.2 1992.9 187}
+			{Angle 1.89133}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2612.72 1923.47 188}
+			{Angle 1.89986}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3212.56 -1981.03 265.417}
+			{Angle 1.41821}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1546.19 5217.43 188}
+			{Angle 1.86645}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1063.13 -6088.16 226}
+			{Angle -0.983146}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1029.38 -6111.07 227}
+			{Angle -0.983146}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1194.6 7271.29 144}
+			{Angle 1.30238}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1572.06 5291.51 189.749}
+			{Angle 1.87696}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3267.56 -1922.34 271.417}
+			{Angle 1.46388}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1253.82 7232.26 143}
+			{Angle 1.29574}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2634.85 2002.74 187}
+			{Angle 1.89145}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1486.21 -5898.29 186.047}
+			{Angle 2.31449}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1027.16 -6107.74 227}
+			{Angle -0.983021}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2421.99 -2339.13 104.466}
+			{Angle -1.9479}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2609.36 1933.31 188}
+			{Angle 1.8998}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3214.1 -1970.74 265.726}
+			{Angle 1.41885}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1060.91 -6084.83 226}
+			{Angle -0.983005}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1543.16 5227.37 188}
+			{Angle 1.86661}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1191.77 7281.29 144}
+			{Angle 1.30164}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1569.03 5301.46 190}
+			{Angle 1.87575}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3269.05 -1912.05 271.716}
+			{Angle 1.46524}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1058.7 -6081.51 226}
+			{Angle -0.982882}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1024.94 -6104.42 227}
+			{Angle -0.982882}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1251 7242.27 143}
+			{Angle 1.29577}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2631.49 2012.59 187}
+			{Angle 1.8915}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1540.12 5237.32 187.956}
+			{Angle 1.8667}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2606 1943.16 188}
+			{Angle 1.89979}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1476.44 -5820.91 182}
+			{Angle 2.36287}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2359.71 -2301.41 112}
+			{Angle -1.90381}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3215.65 -1960.46 265.216}
+			{Angle 1.41974}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1188.94 7291.3 144}
+			{Angle 1.30134}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1565.99 5311.4 190}
+			{Angle 1.87599}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1056.49 -6078.19 226}
+			{Angle -0.982777}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1022.72 -6101.1 227}
+			{Angle -0.982777}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3270.61 -1901.77 272}
+			{Angle 1.46602}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1248.17 7252.28 143}
+			{Angle 1.29577}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2628.12 2022.43 187}
+			{Angle 1.8924}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1537.09 5247.27 188}
+			{Angle 1.86681}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2602.64 1953 188}
+			{Angle 1.89981}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3217.23 -1950.19 265.352}
+			{Angle 1.41929}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1562.93 5321.33 190.593}
+			{Angle 1.87842}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1054.27 -6074.86 226}
+			{Angle -0.982648}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1020.49 -6097.77 227}
+			{Angle -0.982648}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1186.12 7301.31 144}
+			{Angle 1.30123}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3272.19 -1891.49 272}
+			{Angle 1.46464}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1245.35 7262.29 143}
+			{Angle 1.29577}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1534.06 5257.22 188}
+			{Angle 1.86696}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2624.76 2032.27 187}
+			{Angle 1.89276}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1052.05 -6071.54 226}
+			{Angle -0.982525}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1018.27 -6094.45 227}
+			{Angle -0.982525}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2599.28 1962.84 188}
+			{Angle 1.89972}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3218.77 -1939.9 265.659}
+			{Angle 1.41955}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2425.42 -2348.94 103.822}
+			{Angle -1.94677}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1559.9 5331.27 191}
+			{Angle 1.87736}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1479.07 -5891.13 184.489}
+			{Angle 2.31873}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1183.28 7311.32 144}
+			{Angle 1.30047}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1531.03 5267.16 188}
+			{Angle 1.86704}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3273.71 -1881.21 271.726}
+			{Angle 1.46552}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1049.83 -6068.21 226}
+			{Angle -0.982525}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1016.05 -6091.12 227}
+			{Angle -0.982525}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1242.52 7272.3 143}
+			{Angle 1.29578}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2621.4 2042.11 187}
+			{Angle 1.8929}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1556.86 5341.22 191}
+			{Angle 1.87731}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2595.92 1972.68 188}
+			{Angle 1.8997}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1469.03 -5813.79 181}
+			{Angle 2.3646}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3220.34 -1929.62 265.974}
+			{Angle 1.42039}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1180.45 7321.32 144}
+			{Angle 1.29996}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2363.13 -2311.22 112.095}
+			{Angle -1.90337}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1013.83 -6087.79 227}
+			{Angle -0.982525}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1527.99 5277.11 187.667}
+			{Angle 1.86718}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1047.61 -6064.88 226}
+			{Angle -0.982524}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3275.25 -1870.93 272.777}
+			{Angle 1.46656}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1239.7 7282.3 143}
+			{Angle 1.2958}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2618.02 2051.94 188}
+			{Angle 1.89511}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1553.78 5351.12 191.425}
+			{Angle 1.88103}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2592.56 1982.52 187.41}
+			{Angle 1.89971}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3221.91 -1919.35 265.287}
+			{Angle 1.41978}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1177.64 7331.33 144.377}
+			{Angle 1.30082}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1045.39 -6061.56 226}
+			{Angle -0.982473}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1011.61 -6084.47 227}
+			{Angle -0.982473}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1524.96 5287.05 188}
+			{Angle 1.86747}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3276.83 -1860.65 271.436}
+			{Angle 1.46519}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1471.71 -5883.84 184.248}
+			{Angle 2.32951}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1236.87 7292.31 143.531}
+			{Angle 1.29584}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1550.76 5361.07 192}
+			{Angle 1.87915}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2614.67 2061.79 188}
+			{Angle 1.8945}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2589.2 1992.36 188}
+			{Angle 1.89969}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3223.45 -1909.07 265.595}
+			{Angle 1.4203}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1009.39 -6081.14 227}
+			{Angle -0.982321}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1174.82 7341.34 145}
+			{Angle 1.30077}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1043.18 -6058.24 226}
+			{Angle -0.982314}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1521.93 5297 188.089}
+			{Angle 1.86746}
+		}
+		{Entity "tracks_mid"
+			{Owner 1076}
+			{Position 1461.38 -5806.74 180.08}
+			{Angle 2.36536}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3278.4 -1850.38 271.93}
+			{Angle 1.46441}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1234.05 7302.32 144}
+			{Angle 1.29582}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1547.74 5371.02 192}
+			{Angle 1.87873}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2611.31 2071.63 188}
+			{Angle 1.89438}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1007.17 -6077.82 227}
+			{Angle -0.98238}
+		}
+		{Entity "tracks_mid"
+			{Owner 728}
+			{Position -2428.83 -2358.75 103.139}
+			{Angle -1.94748}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2585.84 2002.2 188}
+			{Angle 1.89967}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3225.01 -1898.79 265.772}
+			{Angle 1.42047}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1040.96 -6054.92 226}
+			{Angle -0.982403}
+		}
+		{Entity "tracks_mid"
+			{Owner 1108}
+			{Position -1171.98 7351.35 145}
+			{Angle 1.3}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1518.9 5306.95 188.685}
+			{Angle 1.86746}
+		}
+		{Entity "tracks_mid"
+			{Owner 690}
+			{Position 1544.68 5380.95 192}
+			{Angle 1.88031}
+		}
+		{Entity "tracks_mid"
+			{Owner 1057}
+			{Position 3279.93 -1840.09 272}
+			{Angle 1.46537}
+		}
+		{Entity "tracks_mid"
+			{Owner 1099}
+			{Position 2607.93 2081.46 188}
+			{Angle 1.89624}
+		}
+		{Entity "tracks_sm2"
+			{Owner 952}
+			{Position 1038.74 -6051.59 226.204}
+			{Angle -0.982453}
+		}
+	}
+	{MessageHistory
+		{message_0x0
+			{author "<c(green)>上尉"}
+			{portrait "/interface/scene/portrait/narrator_fin_officer"}
+			{text "欢迎来到东卡累利阿，少校！\n 这是你的新战地指挥部。必须不惜一切代价保护它！< > < > < > < > < > < > < > < > < > < > < > < >"}
+		}
+		{message_0x1
+			{author "<c(green)>上尉"}
+			{portrait "/interface/scene/portrait/narrator_fin_officer"}
+			{text "你的任务是切断敌人的逃跑路线。\n 之后，摧毁敌军防守部队！< > < > < > < > < > < > < > < > < > < > < > < >"}
+		}
+		{message_0x2
+			{author "<c(green)>上尉"}
+			{portrait "/interface/scene/portrait/narrator_fin_officer"}
+			{text "设置路障，采用“莫蒂”战略！< > < > < > < > < > < > < > < > < > < > < > < >"}
+		}
+		{message_0x3
+			{author "<c(green)>上尉"}
+			{portrait "/interface/scene/portrait/narrator_fin_officer"}
+			{text "开始夺取目标，\n 同时我们会为你提供一些增援部署！< > < > < > < > < > < > < > < > < > < > < > < >"}
+		}
+		{message_0x4
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x5
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x6
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "兵力点数会随时间不断增长。\n 你占领的据点越多，兵力增长就越快。"}
+		}
+		{message_0x7
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "已夺取战略据点！"}
+		}
+		{message_0x8
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "新的增援部队已可用！"}
+		}
+		{message_0x9
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0xa
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0xb
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0xc
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0xd
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0xe
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "摧毁敌军的装甲车辆也会增加额外的兵力点数。"}
+		}
+		{message_0xf
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x10
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "已夺取关键据点！"}
+		}
+		{message_0x11
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "新的增援部队已可用！"}
+		}
+		{message_0x12
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x13
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x14
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x15
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "已夺取关键据点！"}
+		}
+		{message_0x16
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "新的增援部队已可用！"}
+		}
+		{message_0x17
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x18
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0x19
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "已夺取关键据点！"}
+		}
+		{message_0x1a
+			{author "<c(ff8080ff)>作战提示"}
+			{portrait "/interface/scene/portrait/battle_assistant"}
+			{text "新的增援部队已可用！"}
+		}
+		{message_0x1b
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0x1c
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0x1d
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x1e
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x1f
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x20
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x21
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x22
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x23
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x24
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "我们的增援来了！"}
+		}
+		{message_0x25
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+		{message_0x26
+			{author "<c(green)>士兵"}
+			{portrait "/interface/scene/portrait/narrator_fin_soldier"}
+			{text "增援部队已经到达！"}
+		}
+	}
+	{Statistics
+		{processor_0x0
+			{player "0"}
+			{man
+				{enemy 399}
+				{lost 97}
+				{shot 290}
+				{blast 109}
+			}
+			{vehicle
+				{enemy 37}
+				{own 1}
+				{lost 13}
+				{shot 19}
+				{blast 13}
+				{burn 4}
+				{crush 1}
+			}
+		}
+		{processor_0x3
+			{player "1"}
+			{vehicle
+				{lost 1}
+			}
+		}
+		{processor_0x6
+			{player "2"}
+			{man
+				{enemy 93}
+				{lost 401}
+				{shot 48}
+				{blast 45}
+			}
+			{vehicle
+				{enemy 12}
+				{lost 37}
+				{shot 6}
+				{blast 5}
+				{burn 1}
+			}
+		}
+		{processor_0x9
+			{player "3"}
+			{vehicle
+				{lost 2}
+			}
+		}
+		{processor_0xc
+			{player "4"}
+		}
+		{processor_0xf
+			{player "5"}
+		}
+		{processor_0x12
+			{player "6"}
+		}
+		{processor_0x15
+			{player "7"}
+		}
+	}
+}
