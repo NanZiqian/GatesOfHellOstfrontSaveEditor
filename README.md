@@ -1,6 +1,6 @@
 # GoH Save Editor (Conquest + Campaign/Mission)
 
-A small Windows GUI save editor for **Call to Arms – Gates of Hell: Ostfront**.
+A small Windows GUI save editor for **Call to Arms – Gates of Hell: Ostfront**. Help you win while keeping the achievements!
 
 It supports:
 
